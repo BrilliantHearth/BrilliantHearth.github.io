@@ -1,11 +1,11 @@
 {
-    "name": "brilliant_hearth_website",
-    "short_name": "brilliant_hearth_website",
+    "name": "Brilliant Hearth",
+    "short_name": "Brilliant Hearth",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Brilliant Hearth Website",
+    "description": "Nature's gifts to warm the soul and infuse happiness into everyday life.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

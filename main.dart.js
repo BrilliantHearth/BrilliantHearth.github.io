@@ -8884,11 +8884,12 @@ _.c=0},
 ajn(){return new A.rs(new A.S2(),A.w(t.K,t.oc))},
 EC:function EC(a,b){this.a=a
 this.b=b},
-l8:function l8(a,b,c,d){var _=this
+l8:function l8(a,b,c,d,e){var _=this
 _.e=a
-_.fx=b
-_.y2=c
-_.a=d},
+_.dy=b
+_.fx=c
+_.y2=d
+_.a=e},
 S2:function S2(){},
 S6:function S6(){},
 wj:function wj(a){var _=this
@@ -33532,7 +33533,7 @@ return new A.AT(s,r,null)}}
 A.yH.prototype={
 N(a,b){return new A.DY(new A.Mp(),null)}}
 A.Mp.prototype={
-$3(a,b,c){return new A.l8(B.xP,A.aah(null,A.aav()),!1,null)},
+$3(a,b,c){return new A.l8(B.xP,"Brilliant Hearth",A.aah(null,A.aav()),!1,null)},
 $C:"$3",
 $R:3,
 $S:122}
@@ -35820,13 +35821,14 @@ if(p)n.a.toString
 o=n.a.fx
 s=b==null?B.rD:b
 return new A.um(new A.q3(o,s,B.al,B.ao,m,m),m)},
-NM(a){var s,r=this,q=null,p=r.a,o=p.fx
-o=o.cx
-s=o
-p=p.e
-o=r.gRB()
-r.a.toString
-return new A.vo(q,q,q,new A.a07(),q,q,q,q,p,B.BM,q,q,B.zp,r.gRE(),"",q,B.Hi,s,q,o,q,q,B.kT,!1,!1,!1,!1,r.gRl(),!1,q,q,q,!1,new A.ja(r,t.l9))},
+NM(a){var s,r,q=this,p=null,o=q.a,n=o.fx
+n=n.cx
+s=n
+n=o.e
+o=o.dy
+r=q.gRB()
+q.a.toString
+return new A.vo(p,p,p,new A.a07(),p,p,p,p,n,B.BM,p,p,B.zp,q.gRE(),o,p,B.Hi,s,p,r,p,p,B.kT,!1,!1,!1,!1,q.gRl(),!1,p,p,p,!1,new A.ja(q,t.l9))},
 N(a,b){var s=null,r=A.Pf(!1,!1,this.NM(b),s,s,s,!0,s,s,new A.a08(),s,s)
 this.a.toString
 return new A.up(B.ua,new A.kS(A.b(this.d,"_heroController"),r,s),s)}}
