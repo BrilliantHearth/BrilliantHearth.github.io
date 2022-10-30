@@ -29,7 +29,7 @@ const RESOURCES = {
 "assets/images/social_media_assets/facebook_64px.png": "bc9c05e1feec560da70124bbba418c11",
 "assets/images/social_media_assets/insta_64px.png": "4335c74dfd4b360d013a2e3a70157caf",
 "assets/images/social_media_assets/tiktok_64px.png": "1f9151ff135f1379ecea386d264d77fa",
-"assets/NOTICES": "3a656cd14f41b822e511f29d6b02428f",
+"assets/NOTICES": "c1cc35a1d500a5f0e772c84d12590dbb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
 "canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
@@ -41,9 +41,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5da80a421cfa6e0bd17eb131ae5bc32c",
-"/": "5da80a421cfa6e0bd17eb131ae5bc32c",
-"main.dart.js": "0f720e21cfebac9c6bf0deebc4f37cde",
+"index.html": "ad80541da8fd632422372df8b1af4e16",
+"/": "ad80541da8fd632422372df8b1af4e16",
+"main.dart.js": "f55581ede3dcf62a4327ab9fa7428c5c",
 "manifest.json": "e32771e3fc75e5853c8859f9872e0354",
 "version.json": "4e382ddf9b25c560bacade95b920486f"
 };
